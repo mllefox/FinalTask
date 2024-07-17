@@ -1,0 +1,14 @@
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/bin/Debug/net7.0/FinalTask
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/bin/Debug/net7.0/FinalTask.deps.json
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/bin/Debug/net7.0/FinalTask.runtimeconfig.json
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/bin/Debug/net7.0/FinalTask.dll
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/bin/Debug/net7.0/FinalTask.pdb
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.AssemblyInfoInputs.cache
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.AssemblyInfo.cs
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.dll
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/refint/FinalTask.dll
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.pdb
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/FinalTask.genruntimeconfig.cache
+/Users/ulianasokol/Desktop/FinalTask/FinalTask/obj/Debug/net7.0/ref/FinalTask.dll
